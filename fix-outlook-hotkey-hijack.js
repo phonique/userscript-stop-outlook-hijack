@@ -3,8 +3,8 @@
 // @description    Disables Outlook from highjacking Mac keyboard shortcuts
 // @copyright      2024, phonique (https://github.com/phonique/userscript-stop-outlook-hijack/)
 // @homepageURL    https://github.com/phonique/userscript-stop-outlook-hijack
-// @downloadURL    https://github.com/phonique/userscript-stop-outlook-hijack/fix-outlook-hotkey-hijack.js?raw=true
-// @updateURL      https://github.com/phonique/userscript-stop-outlook-hijack/fix-outlook-hotkey-hijack.js?raw=true
+// @downloadURL    https://raw.githubusercontent.com/phonique/userscript-stop-outlook-hijack/refs/heads/main/fix-outlook-hotkey-hijack.js
+// @updateURL      https://raw.githubusercontent.com/phonique/userscript-stop-outlook-hijack/refs/heads/main/fix-outlook-hotkey-hijack.js
 // @version        0.1.0
 // @run-at         document-start
 // @match          https://outlook.office.com/*
