@@ -1,0 +1,8 @@
+This is a Tampermonkey/Violentmonkey userscript targeting MacOS users on Chrome, that are fed up with Outlook Web hijacking their Alt key when editing text.
+This might work on Firefox, but it's not tested.
+
+Source code should be easy enough to understand with the comments provided.
+
+You will need to use https://www.tampermonkey.net/scripts.php or https://violentmonkey.github.io/ (untested).
+
+Contributions are welcome, but feel free to fork.
