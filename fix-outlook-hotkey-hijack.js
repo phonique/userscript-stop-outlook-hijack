@@ -8,6 +8,7 @@
 // @version        0.1.0
 // @run-at         document-start
 // @match          https://outlook.office.com/*
+// @match          https://outlook.office365.com.mcas.ms/mail/*
 // @grant          none
 // @license        MPL-2.0
 // ==/UserScript==
